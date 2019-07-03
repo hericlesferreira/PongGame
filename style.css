@@ -1,0 +1,8 @@
+#game {
+  border: 1px solid black;
+  background-image: url(imagens/background.png);
+}
+
+.bg-black{
+  background-color: black;
+}
